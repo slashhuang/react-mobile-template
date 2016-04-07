@@ -4,7 +4,7 @@
 ``` bash
     npm install 
     npm run webpack
-    open http://localhost:8080/html/
+    open http://localhost:8080/webpack-dev-server/html/
 ```
 ---
 

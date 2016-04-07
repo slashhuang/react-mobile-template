@@ -9,7 +9,10 @@ export default class IndexModule extends Component{
     }
     render(){
         return (
-            <div>hello world</div>
+            <div>
+                hello world
+                hellofffdffdf
+            </div>
         )
     }
 }
