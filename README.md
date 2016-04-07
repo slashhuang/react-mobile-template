@@ -1,3 +1,10 @@
+## 使用
+``` bash
+    npm install 
+    npm run webpack
+```
+
+-----完善中----
 ## 精简化的移动端前端框架
 ## 技术选型
 - react
