@@ -1,0 +1,19 @@
+{
+  "name": "react-mobile-template",
+  "version": "1.0.0",
+  "description": "tiny mobile template using react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "mobile"
+  ],
+  "author": "slashhuang",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
