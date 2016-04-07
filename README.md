@@ -31,5 +31,8 @@
 - 加法
 > 采用npm scripts，更灵活的命令行打包方式
     
+#### 代码打包注意点
+- babel目前为6.x版本，需要手动配置各种插件，如"babel-preset-es2015"和"babel-preset-react"。
+
 
 

@@ -11,12 +11,17 @@ module.exports = {
         filename: "[name].bundle.js",
         chunkFilename: "[id].chunk.js"
     },
-    loaders: [
-        {
-            test: /\.js||.jsx$/,
-            exclude: /node_modules/,
-            loader: 'babel-loader'
+    module:{
+        loaders: [
+            {
+                test: /\.js|\.jsx$/,
+                exclude: /node_modules/,
+                loaders: ['babel-loader']
+            }
+        ],
+        resolve: {
+            extensions: ['.js']
         }
-    ],
+    },
     plugins: []
 };

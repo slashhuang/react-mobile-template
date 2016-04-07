@@ -5,3 +5,4 @@
 import React from 'react';
 import containerModule from '../containers/index.js';
 React.render(document.getElementById('root'),containerModule);
+var he ='hello 'ffdsafdasfa
