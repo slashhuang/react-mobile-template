@@ -17,7 +17,7 @@
 - less(样式目录)  
     - entries(样式集合)
     - common(公用的修饰样式库)
-    - colors(统一的颜色库)
+    - colors.less(统一的颜色库)
     - layout(管理页面文档流定位)
 - html(静态页面路口)  
 - js(打包后的生成js目录)
